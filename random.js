@@ -1,5 +1,5 @@
 const links = [
-    "./harold.html"
+    "./harold.html",
     "./haroldsequel.html"
 ];
 function randlink() {
