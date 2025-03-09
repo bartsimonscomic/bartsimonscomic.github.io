@@ -1,5 +1,6 @@
 const links = [
     "./harold.html"
+    "./haroldsequel.html"
 ];
 function randlink() {
     const ra = Math.floor(Math.random() * links.length);
