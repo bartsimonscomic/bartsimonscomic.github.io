@@ -1,6 +1,7 @@
 const links = [
     "./harold",
     "./haroldsequel",
+    "./argument",
     "./playship"
 ];
 function randlink() {
